@@ -4,7 +4,7 @@
 
 ✈ Avionics Engineer
 
-💲 Working in AML/KYC Domain
+💲 Working in Astrophysics, Aviation, AML/KYC, and Computer Aided Diagnostics Domain
 
 🌠 Addressing larger concepts facing humanity and I leverage my expertise in machine learning to push the boundaries of the field and explore new frontiers.
 
